@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HrithikGaikwad
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Full Stack Development Course in Java
-- 💞️ I’m looking to collaborate on Development Projects, want to learn new things 
+-  Cloud & DevOps Engineer
+-  👨‍💻 I specialize in designing, automating, and operating production-grade cloud and Kubernetes platforms, with a strong focus on scalability, reliability, security, and automation.
+-  My goal is to streamline the software development lifecycle and provide continuous delivery with high software quality.
 - 📫 How to reach me hrithik.gaikwad3099@gmail.com
 
 <!---
